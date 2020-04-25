@@ -10,7 +10,7 @@
 
 ## C BASE
 
-C programming tasks [git](https://github.com/vaskivnyuk/C_base)
+C programming tasks [git](https://github.com/mykhailo-vaskivnyuk/C_base)
 
 ## PET-PROJECT "MEREGA"
 
