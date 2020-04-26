@@ -6,7 +6,7 @@
 
 Course certificate [link](https://www.coursera.org/account/accomplishments/records/U7FRD38QGR5G)
 
-Course [link](https://www.coursera.org/learn/server-side-nodejs/)
+Course source [link](https://www.coursera.org/learn/server-side-nodejs/)
 
 Course assignments [git](https://github.com/mykhailo-vaskivnyuk/server-side-nodejs)
 
