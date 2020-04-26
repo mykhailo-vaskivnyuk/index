@@ -2,7 +2,13 @@
 
 ## COURSERA, ALGORITHMS PART I
 
-## COURSERA, NODE + EXPRESS + MONGODB
+## COURSERA, Server-side Development with NodeJS, Express and MongoDB
+
+Course certificate [link](https://www.coursera.org/account/accomplishments/records/U7FRD38QGR5G)
+
+Course [link](https://www.coursera.org/learn/server-side-nodejs/)
+
+Course assignments [git](https://github.com/mykhailo-vaskivnyuk/server-side-nodejs)
 
 ## LEARN.JAVASCRIPT.RU
 
