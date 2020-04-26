@@ -8,7 +8,9 @@
 
 ## TEMABIT COURSE
 
-## C BASE
+TemaBit Course tasks [git](https://github.com/mykhailo-vaskivnyuk/temabit-course)
+
+## C PROGRAMMING
 
 C programming tasks [git](https://github.com/mykhailo-vaskivnyuk/C_base)
 
