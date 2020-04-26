@@ -20,6 +20,6 @@ TemaBit Course tasks [git](https://github.com/mykhailo-vaskivnyuk/temabit-course
 
 C programming tasks [git](https://github.com/mykhailo-vaskivnyuk/C_base)
 
-## PET-PROJECT "MEREGA"
+## PROJECT "MEREGA"
 
 ## ATRIS ENERGO WEB-APP
