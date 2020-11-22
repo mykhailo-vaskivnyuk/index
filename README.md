@@ -1,5 +1,10 @@
 # MY REPOSITORIES
 
+## OPERATOR ASSISTANT, TEMABIT
+
+TemaBit Project [git](https://github.com/mykhailo-vaskivnyuk/temabit-course)
+
+
 ## COURSERA, ALGORITHMS PART I
 
 ## COURSERA, Server-side Development with NodeJS, Express and MongoDB
