@@ -2,7 +2,7 @@
 
 ## OPERATOR ASSISTANT, TEMABIT
 
-Project source [git](https://github.com/mykhailo-vaskivnyuk/operator-assistant)
+Project source [git](https://github.com/mykhailo-vaskivnyuk/operator-interface)
 
 
 ## COURSERA, ALGORITHMS PART I
